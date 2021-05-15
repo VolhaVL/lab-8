@@ -1,0 +1,7 @@
+web/lab8/entity/ChatMessage.class
+web/lab8/entity/ChatUser.class
+web/lab8/servlet/LoginServlet.class
+web/lab8/servlet/LogoutServlet.class
+web/lab8/servlet/ChatServlet.class
+web/lab8/servlet/MessageListServlet.class
+web/lab8/servlet/NewMessageServlet.class
